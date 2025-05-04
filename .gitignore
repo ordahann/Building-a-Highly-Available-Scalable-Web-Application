@@ -134,3 +134,21 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# AWS credentials / metadata
+*.pem
+*.ppk
+*.key
+.aws/
+.aws-secret
+*.env.*
+secrets.json
+
+# Cloud9 environment files
+*.launch
+*.c9/
+
+# Logs and test output from load tests
+loadtest.log
+*.csv
+*.json
