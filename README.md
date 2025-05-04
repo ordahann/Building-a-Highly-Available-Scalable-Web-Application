@@ -1,6 +1,7 @@
 # Building a Highly Available Scalable Web Application - Student Records Web Application
 > This is the final deployed version of the student records web application.<br/>
-> It connects to an Amazon RDS MySQL database using credentials stored securely in AWS Secrets Manager.
+> This project showcases a fully deployed **Student Records Web App** using AWS services including EC2, RDS, Secrets Manager, Load Balancer, Auto Scaling, and Cloud9.
+
 ### Submitted by:
 - Roni Ronen
 - Or Dahan
