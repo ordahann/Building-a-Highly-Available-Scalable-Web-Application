@@ -1,5 +1,5 @@
 # Building a Highly Available Scalable Web Application
-> web application for student records
+> Web application for student records using aws services
 ### Students
 - Roni Ronen
 - Or Dahan
